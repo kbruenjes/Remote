@@ -12,3 +12,5 @@ This repo is for **GitHub** *Training*
 ## We are now making secondary changes to the document on the Kevin branch that will then be merged onto the main branch
 
 * This is the final change that I will be making to this document for now
+
+cool kevin is making changes to this doc now on the cool_kev branch
